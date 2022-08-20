@@ -38,8 +38,8 @@ Desktop design
 
 ### Links
 
-- Solution URL: [Huddle landing page with single introductory section]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Huddle landing page with single introductory section](https://www.frontendmentor.io/solutions/huddlelandingpagewithsingleintroductorysection-aNToYSz29D)
+- Live Site URL: [Add live site URL here](https://jpbyte.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ## My process
 
