@@ -27,7 +27,7 @@
 }
 
 body {
-  background: url(design/bg-desktop.svg) no-repeat hsl(257deg, 40%, 49%);
+  background: url(../design/bg-desktop.svg) no-repeat hsl(257deg, 40%, 49%);
   background-size: cover;
   width: 100%;
   min-height: 100vh;
@@ -121,7 +121,7 @@ body footer .space {
 }
 @media (max-width: 1000px) {
   body {
-    background: url(design/bg-mobile.svg) top no-repeat hsl(257deg, 40%, 49%);
+    background: url(../design/bg-mobile.svg) top no-repeat hsl(257deg, 40%, 49%);
     background-size: contain;
     display: flex;
     flex-direction: column;
